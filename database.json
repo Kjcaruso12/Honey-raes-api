@@ -101,6 +101,30 @@
       "description": "Cannot connect to any wifi.",
       "emergency": true,
       "dateCompleted": ""
+    },
+    {
+      "description": "MacBook won't boot up",
+      "emergency": true,
+      "customerId": 11,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 3
+    },
+    {
+      "description": "PC overheating",
+      "emergency": true,
+      "customerId": 11,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 4
+    },
+    {
+      "description": "Hard drive failure",
+      "emergency": false,
+      "customerId": 11,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 5
     }
   ]
 }
