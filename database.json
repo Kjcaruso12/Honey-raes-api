@@ -2,66 +2,77 @@
   "customers": [
     {
       "id": 1,
-      "name": "Dion Stoade",
+      "first_name": "Dion",
+      "last_name": "Stoade",
       "address": "6866 4th Court",
       "email": "dstoade0@cornell.edu"
     },
     {
       "id": 2,
-      "name": "Windy Thorneloe",
+      "first_name": "Windy",
+      "last_name": "Thorneloe",
       "address": "59924 Beilfuss Center",
       "email": "wthorneloe1@usa.gov"
     },
     {
       "id": 3,
-      "name": "Hillie Phillpotts",
+      "first_name": "Hillie",
+      "last_name": "Phillpotts",
       "address": "21 Straubel Point",
       "email": "hphillpotts2@rakuten.co.jp"
     },
     {
       "id": 4,
-      "name": "Jobye Danielou",
+      "first_name": "Jobye",
+      "last_name": "Danielou",
       "address": "7 Pleasure Terrace",
       "email": "jdanielou3@apple.com"
     },
     {
       "id": 5,
-      "name": "Gabbie Schult",
+      "first_name": "Gabbie",
+      "last_name": "Schult",
       "address": "46273 Oak Trail",
       "email": "gschult4@tinyurl.com"
     },
     {
       "id": 6,
-      "name": "Vasily Youdell",
+      "first_name": "Vasily",
+      "last_name": "Youdell",
       "address": "0993 Gulseth Avenue",
       "email": "vyoudell5@globo.com"
     },
     {
       "id": 7,
-      "name": "Debra Blackhurst",
+      "first_name": "Debra",
+      "last_name": "Blackhurst",
       "address": "57305 Crowley Alley",
       "email": "dblackhurst6@last.fm"
     },
     {
       "id": 8,
-      "name": "Helenelizabeth Passfield",
+      "first_name": "Helenelizabeth",
+      "last_name": "Passfield",
       "address": "02 Reinke Plaza",
       "email": "hpassfield7@netvibes.com"
     },
     {
       "id": 9,
-      "name": "Franchot Slator",
+      "first_name": "Franchot",
+      "last_name": "Slator",
       "address": "4930 Oneill Drive",
       "email": "fslator8@51.la"
     },
     {
       "id": 10,
-      "name": "Renaud Erbe",
+      "first_name": "Reanud",
+      "last_name": "Erbe",
       "address": "30 Westridge Pass",
       "email": "rerbe9@psu.edu"
     },
     {
-      "name": "Bobby Hill",
+      "first_name": "Bobby",
+      "last_name": "Hill",
       "address": "1200 Lollypop ln",
       "email": "Notmypurse@gmail.com",
       "id": 11
@@ -70,19 +81,27 @@
   "employees": [
     {
       "id": 1,
-      "name": "Tom Schamberger",
+      "first_name": "Tom",
+      "last_name": "Schamberger",
       "specialty": "iPhone"
     },
     {
       "id": 2,
-      "name": "Rose Schmitt",
+      "first_name": "Rose",
+      "last_name": "Schmitt",
       "specialty": "Printers"
     },
     {
-      "description": "",
       "specialty": "Mac Laptop",
-      "name": "Larry Slater",
+      "first_name": "Larry",
+      "last_name": "Slater",
       "id": 3
+    },
+    {
+      "specialty": "iPhone",
+      "first_name": "Susan",
+      "last_name": "Flowers",
+      "id": 4
     }
   ],
   "serviceTickets": [
