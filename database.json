@@ -102,12 +102,18 @@
       "first_name": "Susan",
       "last_name": "Flowers",
       "id": 4
+    },
+    {
+      "first_name": "Will",
+      "last_name": "Smith",
+      "specialty": "Debugging",
+      "id": 5
     }
   ],
   "serviceTickets": [
     {
       "customerId": 4,
-      "employeeId": 2,
+      "employeeId": 5,
       "description": "iPhone case cracked. Please replace.",
       "emergency": false,
       "dateCompleted": "2021-05-26",
@@ -128,6 +134,22 @@
       "employeeId": 1,
       "dateCompleted": "",
       "id": 4
+    },
+    {
+      "customerId": 11,
+      "employeeId": 2,
+      "description": "Iphone speakers stopped working",
+      "emergency": false,
+      "dateCompleted": "",
+      "id": 5
+    },
+    {
+      "customerId": 11,
+      "employeeId": 4,
+      "description": "Laptop has a virus",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 6
     }
   ]
 }
